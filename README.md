@@ -164,6 +164,12 @@ spec:
 
 See: https://argocd.k3s0.sikademo.com
 
+## More Resources
+
+- https://ondrej-sika.cz/skoleni/argocd/
+- https://github.com/ondrejsika/argocd-training
+- https://github.com/ondrejsika/argocd-apps-public
+
 ## Thank you! & Questions?
 
 ### Ondrej Sika
