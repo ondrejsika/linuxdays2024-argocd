@@ -163,3 +163,14 @@ spec:
 ```
 
 See: https://argocd.k3s0.sikademo.com
+
+## Thank you! & Questions?
+
+### Ondrej Sika
+
+- email: <ondrej@sika.io>
+- web: <https://sika.io>
+- twitter: [@ondrejsika](https://twitter.com/ondrejsika)
+- linkedin: [/in/ondrejsika/](https://linkedin.com/in/ondrejsika/)
+
+Wanna to go for a beer or do some work together? Just [book me](https://book-me.sika.io) :)
